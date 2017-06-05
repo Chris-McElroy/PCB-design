@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MDB_footprints)(type KiCad)(uri "$(KIPRJMOD)/MDB_footprints.pretty")(options "")(descr ""))
+)

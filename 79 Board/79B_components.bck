@@ -1,0 +1,66 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AGND
+K POWER, PWR
+$ENDCMP
+#
+$CMP CONN_02X02
+D Connector, double row, 02x02, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_A
+D Connector, single row, 01x04, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_B
+D Connector, single row, 01x04, pin header
+K connector
+$ENDCMP
+#
+$CMP GND
+D Ground
+K POWER, PWR, GND, GROUND
+$ENDCMP
+#
+$CMP JP1
+D Connector, double row, 02x02, pin header
+K connector
+$ENDCMP
+#
+$CMP JP2
+D Connector, double row, 02x02, pin header
+K connector
+$ENDCMP
+#
+$CMP JP3
+D Connector, double row, 02x02, pin header
+K connector
+$ENDCMP
+#
+$CMP JP4
+D Connector, double row, 02x02, pin header
+K connector
+$ENDCMP
+#
+$CMP MOTOR_OUT
+D Connector, double row, 02x02, pin header
+K connector
+$ENDCMP
+#
+$CMP PRESSURE
+D Generic Female Connector, Single Row, 01x04, socket header
+K Connector, Female, Generic
+$ENDCMP
+#
+$CMP PRES_HEADER
+D Generic Female Connector, Single Row, 01x04, socket header
+K Connector, Female, Generic
+$ENDCMP
+#
+$CMP Vm
+K POWER, PWR
+$ENDCMP
+#
+#End Doc Library

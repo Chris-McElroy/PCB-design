@@ -1,0 +1,22 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CONN_A
+D Connector, single row, 01x04, pin header
+K connector
+$ENDCMP
+#
+$CMP CONN_B
+D Connector, single row, 01x04, pin header
+K connector
+$ENDCMP
+#
+$CMP Screw_Input_Terminal
+D 4-pin screw terminal connector
+K screw terminal block
+$ENDCMP
+#
+$CMP Vm
+K POWER, PWR
+$ENDCMP
+#
+#End Doc Library
