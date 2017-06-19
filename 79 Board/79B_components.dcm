@@ -44,6 +44,18 @@ D Connector, double row, 02x02, pin header
 K connector
 $ENDCMP
 #
+$CMP MCP6002
+D Op Amp in 5-pin package
+K op amp amplifier operational 
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
+$CMP MCP6002_flip
+D Op Amp in 5-pin package
+K op amp amplifier operational 
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21733j.pdf
+$ENDCMP
+#
 $CMP MOTOR_OUT
 D Connector, double row, 02x02, pin header
 K connector
@@ -57,10 +69,6 @@ $ENDCMP
 $CMP PRES_HEADER
 D Generic Female Connector, Single Row, 01x04, socket header
 K Connector, Female, Generic
-$ENDCMP
-#
-$CMP Vm
-K POWER, PWR
 $ENDCMP
 #
 #End Doc Library

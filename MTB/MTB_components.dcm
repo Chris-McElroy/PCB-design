@@ -1,0 +1,54 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT_CONN
+D Generic Female Connector, Single Row, 01x02, socket header
+K Connector, Female, Generic
+$ENDCMP
+#
+$CMP CONN_01X02_FEMALE
+D Generic Female Connector, Single Row, 01x02, socket header
+K Connector, Female, Generic
+$ENDCMP
+#
+$CMP D_Schottky_T
+D Schottky diode
+K diode Schottky
+$ENDCMP
+#
+$CMP D_Schottky_x4
+D Dual schottky diode
+K diode
+$ENDCMP
+#
+$CMP GPS
+D Connector, single row, 01x09, pin header
+K connector
+$ENDCMP
+#
+$CMP IMU
+D Connector, single row, 01x10, pin header
+K connector
+$ENDCMP
+#
+$CMP Vb
+K POWER, PWR
+$ENDCMP
+#
+$CMP Vd
+K POWER, PWR
+$ENDCMP
+#
+$CMP Vm
+K POWER, PWR
+$ENDCMP
+#
+$CMP Vt
+K POWER, PWR
+$ENDCMP
+#
+$CMP microSD
+D Connector, single row, 01x08, pin header
+K connector
+$ENDCMP
+#
+#End Doc Library

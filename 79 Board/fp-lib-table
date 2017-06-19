@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name MCB_footprints)(type KiCad)(uri "/Users/Christopher/Documents/HMC/E79:80 Development/PCB-design/79 Board/MCB_footprints.pretty")(options "")(descr "Footprints specific to the MCB"))
+)

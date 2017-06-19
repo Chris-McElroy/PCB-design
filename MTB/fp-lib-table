@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name MDB_footprints)(type KiCad)(uri "/Users/Christopher/Documents/HMC/E79:80 Development/PCB-design/myDAQ Breakout Board/MDB_footprints.pretty")(options "")(descr ""))
+  (lib (name MTB_footprints)(type KiCad)(uri "$(KIPRJMOD)/MTB_footprints.pretty")(options "")(descr ""))
+  (lib (name MCB_footprints)(type KiCad)(uri "/Users/Christopher/Documents/HMC/E79:80 Development/PCB-design/79 Board/MCB_footprints.pretty")(options "")(descr ""))
+)
